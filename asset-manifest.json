@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "kidtango.github.io/discord-clone/static/css/main.a76997b5.chunk.css",
-    "main.js": "kidtango.github.io/discord-clone/static/js/main.b9020ea7.chunk.js",
-    "main.js.map": "kidtango.github.io/discord-clone/static/js/main.b9020ea7.chunk.js.map",
-    "runtime-main.js": "kidtango.github.io/discord-clone/static/js/runtime-main.31b7d3e1.js",
-    "runtime-main.js.map": "kidtango.github.io/discord-clone/static/js/runtime-main.31b7d3e1.js.map",
-    "static/js/2.c77d9af6.chunk.js": "kidtango.github.io/discord-clone/static/js/2.c77d9af6.chunk.js",
-    "static/js/2.c77d9af6.chunk.js.map": "kidtango.github.io/discord-clone/static/js/2.c77d9af6.chunk.js.map",
-    "index.html": "kidtango.github.io/discord-clone/index.html",
-    "precache-manifest.ea137e548693ff92a3a108c977d22425.js": "kidtango.github.io/discord-clone/precache-manifest.ea137e548693ff92a3a108c977d22425.js",
-    "service-worker.js": "kidtango.github.io/discord-clone/service-worker.js",
-    "static/css/main.a76997b5.chunk.css.map": "kidtango.github.io/discord-clone/static/css/main.a76997b5.chunk.css.map",
-    "static/js/2.c77d9af6.chunk.js.LICENSE": "kidtango.github.io/discord-clone/static/js/2.c77d9af6.chunk.js.LICENSE",
-    "static/media/avatar2.jpg": "kidtango.github.io/discord-clone/static/media/avatar2.8a1174fd.jpg",
-    "static/media/icon_discord.svg": "kidtango.github.io/discord-clone/static/media/icon_discord.a2e6f562.svg",
-    "static/media/icon_laravel.svg": "kidtango.github.io/discord-clone/static/media/icon_laravel.07df5d5b.svg",
-    "static/media/icon_tailwind.svg": "kidtango.github.io/discord-clone/static/media/icon_tailwind.3d86bb4f.svg"
+    "main.css": "/discord-clone/static/css/main.a76997b5.chunk.css",
+    "main.js": "/discord-clone/static/js/main.838a6961.chunk.js",
+    "main.js.map": "/discord-clone/static/js/main.838a6961.chunk.js.map",
+    "runtime-main.js": "/discord-clone/static/js/runtime-main.b6f22930.js",
+    "runtime-main.js.map": "/discord-clone/static/js/runtime-main.b6f22930.js.map",
+    "static/js/2.c77d9af6.chunk.js": "/discord-clone/static/js/2.c77d9af6.chunk.js",
+    "static/js/2.c77d9af6.chunk.js.map": "/discord-clone/static/js/2.c77d9af6.chunk.js.map",
+    "index.html": "/discord-clone/index.html",
+    "precache-manifest.8199032087071fdd7d693d80fe910a5f.js": "/discord-clone/precache-manifest.8199032087071fdd7d693d80fe910a5f.js",
+    "service-worker.js": "/discord-clone/service-worker.js",
+    "static/css/main.a76997b5.chunk.css.map": "/discord-clone/static/css/main.a76997b5.chunk.css.map",
+    "static/js/2.c77d9af6.chunk.js.LICENSE": "/discord-clone/static/js/2.c77d9af6.chunk.js.LICENSE",
+    "static/media/avatar2.jpg": "/discord-clone/static/media/avatar2.8a1174fd.jpg",
+    "static/media/icon_discord.svg": "/discord-clone/static/media/icon_discord.a2e6f562.svg",
+    "static/media/icon_laravel.svg": "/discord-clone/static/media/icon_laravel.07df5d5b.svg",
+    "static/media/icon_tailwind.svg": "/discord-clone/static/media/icon_tailwind.3d86bb4f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31b7d3e1.js",
+    "static/js/runtime-main.b6f22930.js",
     "static/js/2.c77d9af6.chunk.js",
     "static/css/main.a76997b5.chunk.css",
-    "static/js/main.b9020ea7.chunk.js"
+    "static/js/main.838a6961.chunk.js"
   ]
 }
