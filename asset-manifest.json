@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/discord-clone/static/css/main.a76997b5.chunk.css",
-    "main.js": "/discord-clone/static/js/main.838a6961.chunk.js",
-    "main.js.map": "/discord-clone/static/js/main.838a6961.chunk.js.map",
+    "main.css": "/discord-clone/static/css/main.c53e122e.chunk.css",
+    "main.js": "/discord-clone/static/js/main.87b6038a.chunk.js",
+    "main.js.map": "/discord-clone/static/js/main.87b6038a.chunk.js.map",
     "runtime-main.js": "/discord-clone/static/js/runtime-main.b6f22930.js",
     "runtime-main.js.map": "/discord-clone/static/js/runtime-main.b6f22930.js.map",
     "static/js/2.c77d9af6.chunk.js": "/discord-clone/static/js/2.c77d9af6.chunk.js",
     "static/js/2.c77d9af6.chunk.js.map": "/discord-clone/static/js/2.c77d9af6.chunk.js.map",
     "index.html": "/discord-clone/index.html",
-    "precache-manifest.8199032087071fdd7d693d80fe910a5f.js": "/discord-clone/precache-manifest.8199032087071fdd7d693d80fe910a5f.js",
+    "precache-manifest.49de194399579ac09c5d21058c016345.js": "/discord-clone/precache-manifest.49de194399579ac09c5d21058c016345.js",
     "service-worker.js": "/discord-clone/service-worker.js",
-    "static/css/main.a76997b5.chunk.css.map": "/discord-clone/static/css/main.a76997b5.chunk.css.map",
+    "static/css/main.c53e122e.chunk.css.map": "/discord-clone/static/css/main.c53e122e.chunk.css.map",
     "static/js/2.c77d9af6.chunk.js.LICENSE": "/discord-clone/static/js/2.c77d9af6.chunk.js.LICENSE",
     "static/media/avatar2.jpg": "/discord-clone/static/media/avatar2.8a1174fd.jpg",
     "static/media/icon_discord.svg": "/discord-clone/static/media/icon_discord.a2e6f562.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.b6f22930.js",
     "static/js/2.c77d9af6.chunk.js",
-    "static/css/main.a76997b5.chunk.css",
-    "static/js/main.838a6961.chunk.js"
+    "static/css/main.c53e122e.chunk.css",
+    "static/js/main.87b6038a.chunk.js"
   ]
 }
